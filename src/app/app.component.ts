@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'Doctor_Appoinment_Booking_App';
+  title = 'Doctor_Appointment_Booking_App';
 }
